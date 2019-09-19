@@ -24,3 +24,4 @@ print("the multiplication of {0} and {1} is {2}".format(a, b, mul))
 print("the division of {0} and {1} is {2}".format(a, b, div1))
 print("the floor division of {0} and {1} is {2}".format(a, b, div2))
 print("the modulo division of {0} and {1} is {2}".format(a, b, mod))
+
