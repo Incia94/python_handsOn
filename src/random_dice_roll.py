@@ -19,10 +19,5 @@ while keyboard_input == 'Y' or keyboard_input == 'Yes' or keyboard_input == 'y' 
     if num == 6:
         print("6")
     keyboard_input = input("Press Y to roll again and N to exit:")
-
-
-
-
-
-
+    
 
