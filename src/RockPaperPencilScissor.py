@@ -45,11 +45,3 @@ while game == 'Y'or game == 'y' or game == 'Y' or game == 'y':
     elif player1_output == "PENCIL" and player2_output == "PAPER":
         print("{} wins the round".format(player1_name))
     game = input("PRESS Y TO PLAY AGAIN or N TO EXIT")
-
-
-
-
-
-
-
-
