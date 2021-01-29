@@ -30,3 +30,4 @@ schedule.every().hour.do(water_reminder)
 while True:
     schedule.run_pending()
     time.sleep(1)
+    
